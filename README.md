@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JannisBo
-- 👀 I’m interested in Smart-Home
+- 👀 I’m interested in Bootstrap
 - 🌱 I’m currently learning Angular
 
 <!---
